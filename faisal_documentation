@@ -1,0 +1,13 @@
+
+
+All the problems are listed here.
+https://www.w3resource.com/python-exercises/python-basic-exercises.php#EDITOR
+
+Very important calendar module - MUST READ BEFORE ANY INTERVIEW
+https://www.geeksforgeeks.org/python-calendar-module/
+
+Exercise 12 - calendar operations is used
+Exersice 13 is very important- map function and unpack a list using * operator.
+Exersice - popular question - if a list has size of 100 crores and all elements are same. In the least possible time,
+how can I verify if all elements are really same or not. use set() function - because set cannot have duplicate. hence size of set should be 1.
+
